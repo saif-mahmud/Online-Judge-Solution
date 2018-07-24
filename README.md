@@ -6,3 +6,5 @@ Solution for Algorithm based problems in various online judges ([**UVa**](https:
 - Number Theory
 - Dynamic Programming
 - Greedy Technique
+- String Matching
+- Divide and Conquer
